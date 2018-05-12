@@ -13,7 +13,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 !! turn off `Debug executable` in edit scheme.
 
-```
+```swift
 let paths = ["https://image.com", "", "not url", "http://image.jp/"]
 let medias = paths.safeMap({ Media(url: URL(string: $0)!) })
 ```
