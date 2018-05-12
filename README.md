@@ -1,6 +1,6 @@
 # SafeMap
 
-[![CI Status](https://img.shields.io/travis/Tomoya Hirano/SafeMap.svg?style=flat)](https://travis-ci.org/Tomoya Hirano/SafeMap)
+[![CI Status](https://img.shields.io/travis/noppefoxwolf/SafeMap.svg?style=flat)](https://travis-ci.org/noppefoxwolf/SafeMap)
 [![Version](https://img.shields.io/cocoapods/v/SafeMap.svg?style=flat)](https://cocoapods.org/pods/SafeMap)
 [![License](https://img.shields.io/cocoapods/l/SafeMap.svg?style=flat)](https://cocoapods.org/pods/SafeMap)
 [![Platform](https://img.shields.io/cocoapods/p/SafeMap.svg?style=flat)](https://cocoapods.org/pods/SafeMap)
