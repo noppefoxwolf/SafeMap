@@ -9,6 +9,15 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+## Usage
+
+!! turn off `Debug executable` in edit scheme.
+
+```
+let paths = ["https://image.com", "", "not url", "http://image.jp/"]
+let medias = paths.safeMap({ Media(url: URL(string: $0)!) })
+```
+
 ## Requirements
 
 ## Installation
@@ -23,6 +32,10 @@ pod 'SafeMap'
 ## Author
 
 Tomoya Hirano, noppelabs@gmail.com
+
+Fortify by johnno1962
+
+https://github.com/johnno1962/Fortify
 
 ## License
 

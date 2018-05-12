@@ -1,0 +1,16 @@
+PODS:
+  - SafeMap (0.1.0)
+
+DEPENDENCIES:
+  - SafeMap (from `../`)
+
+EXTERNAL SOURCES:
+  SafeMap:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SafeMap: b111134e31d7f53452ae2c354c50fcfea94c9e99
+
+PODFILE CHECKSUM: c46666822d44aec200797c0b1023f33221f6f894
+
+COCOAPODS: 1.5.2
